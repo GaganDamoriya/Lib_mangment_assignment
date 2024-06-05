@@ -1,8 +1,8 @@
-# React + Vite
+# This website is made on React + Vite
+To run it on your device you may follow few steps
+1. Clone the project
+2. cd into the folder
+3. write "npm install"
+4. then write "npm run dev" to run the application locally
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+   Here is the link to the project hosted live https://readerszone.netlify.app/
