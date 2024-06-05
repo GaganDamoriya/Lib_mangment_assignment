@@ -1,0 +1,45 @@
+.home {
+  min-height: 100vh;
+  height: 100%;
+  background-color: #fffee7;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.content {
+  width: 70%;
+  margin: 0 auto;
+}
+
+h2 {
+  color: orange;
+  padding-left: 20px;
+}
+.showBooks {
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 245px);
+  gap: 10px;
+  justify-content: center;
+}
+.card {
+  height: 280px;
+  width: 245px;
+}
+.load {
+  color: orange;
+  width: 50%;
+  height: 50%;
+  position: absolute;
+  font-size: larger;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+@media screen and (max-width: 580px) {
+  .load {
+    width: 65%;
+    height: 35%;
+  }
+}

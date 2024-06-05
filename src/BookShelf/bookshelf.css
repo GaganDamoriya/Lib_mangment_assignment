@@ -1,0 +1,8 @@
+.bookshelf_div {
+  min-height: 100vh;
+  height: 100%;
+  background-color: #fffee7;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}

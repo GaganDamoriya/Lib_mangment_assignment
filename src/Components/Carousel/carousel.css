@@ -1,0 +1,13 @@
+.bookCard {
+  height: 220px;
+  width: 180px;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  gap: 20px;
+  border: 1.2px double orange;
+  border-radius: 20px;
+}
+.headings {
+  font-weight: 700;
+}
